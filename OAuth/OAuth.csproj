@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>OAuthStandard</PackageId>
+    <Authors>Carson Howard</Authors>
+    <Product>OAuthStandard</Product>
+    <Description>Generate OAuth1.0a requests with .NET Standard</Description>
+    <PackageProjectUrl>https://github.com/cjhoward92/OAuthStandard</PackageProjectUrl>
+    <Copyright>PUBLIC DOMAIN</Copyright>
+    <PackageLicenseUrl>https://github.com/cjhoward92/OAuthStandard/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/cjhoward92/OAuthStandard</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>OAuth OAuth1.0a OAuth1 Signature</PackageTags>
   </PropertyGroup>
 
 </Project>
