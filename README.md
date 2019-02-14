@@ -1,5 +1,7 @@
 # OAuth Standard
 
+View the nuget package [here](https://www.nuget.org/packages/OAuthStandard/1.0.0)
+
 This is the code from [the original OAuth1.0a .NET library](https://www.nuget.org/packages/OAuth/) converted to .NET Standard.
 
 I downloaded the Nuget package, disassembled it, and rebuilt it in .NET Standard so people could continue using it.
